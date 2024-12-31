@@ -1,5 +1,6 @@
 import {
   Features,
+  Footer,
   Hero,
   Highlights,
   HowItWorks,
@@ -16,6 +17,7 @@ const App = () => {
       <Model />
       <Features />
       <HowItWorks />
+      <Footer />
     </main>
   );
 };
