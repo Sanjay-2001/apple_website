@@ -67,9 +67,9 @@ const Model = () => {
               size={size}
             />
             <ModelView
-              index={1}
+              index={2}
               groupRef={large}
-              gsapType="view1"
+              gsapType="view2"
               controlRef={cameraControlLarge}
               setRotationState={setLargeRotation}
               item={model}
