@@ -1,4 +1,11 @@
-import { Features, Hero, Highlights, Model, Navbar } from "./components";
+import {
+  Features,
+  Hero,
+  Highlights,
+  HowItWorks,
+  Model,
+  Navbar,
+} from "./components";
 
 const App = () => {
   return (
@@ -8,6 +15,7 @@ const App = () => {
       <Highlights />
       <Model />
       <Features />
+      <HowItWorks />
     </main>
   );
 };

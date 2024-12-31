@@ -3,5 +3,6 @@ import Hero from "./Hero";
 import Highlights from "./Highlights";
 import Model from "./Model";
 import Features from "./Features";
+import HowItWorks from "./HowItWorks";
 
-export { Navbar, Hero, Highlights, Model, Features };
+export { Navbar, Hero, Highlights, Model, Features, HowItWorks };
